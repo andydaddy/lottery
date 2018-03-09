@@ -1,5 +1,7 @@
 #encoding=utf-8
- #what to do again
+
+# what to do
+
 import tensorflow as tf
 import numpy as np
 
